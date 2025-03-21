@@ -4,3 +4,5 @@
 db.sqlite3
 .gitignore
 .idea
+node_modules
+build
